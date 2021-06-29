@@ -3,13 +3,13 @@ module.exports = {
     title: "Sharjeel Pizza ",
   },
   plugins: [
-    {
-      resolve: "gatsby-source-sanity",
-      options: {
-        projectId: "",
-        dataset: "",
-      },
-    },
+    // {
+    //   resolve: "gatsby-source-sanity",
+    //   options: {
+    //     projectId: "",
+    //     dataset: "",
+    //   },
+    // },
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",

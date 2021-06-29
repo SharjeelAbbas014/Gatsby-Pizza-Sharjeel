@@ -1,10 +1,10 @@
 import React from "react";
 import Layout from "../components/layout";
 
-export default function Index() {
+export default function Beers() {
   return (
     <>
-      <p>Home Page</p>
+      <p>Beers Page</p>
     </>
   );
 }
